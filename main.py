@@ -1,24 +1,11 @@
-# as = 5
-# and = 5
-# if = 5
+#normal
+myvariablename = 5
 
-# 2myvar 
+#camelcase
+myVariableName = 5
 
-# my-var = 5
+#pascalcase
+MyVariableName = 5
 
-
-# myvar = "John"
-
-
-#case sensetive
-
-x = 5
-X = 6
-
-print(x)
-print(X)
-
-age = 6
-Age = 5
-
-
+#snakecase
+my_variable_name = 5
