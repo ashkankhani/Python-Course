@@ -1,11 +1,14 @@
-#normal
-myvariablename = 5
+#1
+x, y, z = "Orange", "Banana", "Cherry"
 
-#camelcase
-myVariableName = 5
+print(x,y,z)
 
-#pascalcase
-MyVariableName = 5
+#2
+x = y = z = "orange"
+print(x,y,z)
 
-#snakecase
-my_variable_name = 5
+#3
+x = 1
+y = 2
+x , y = y , x
+print(x,y)
